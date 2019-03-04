@@ -1,0 +1,319 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.9.26)  11 OCT 2018 16:09
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"COMPASS Main.tex"
+(./COMPASS Main.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 3 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count87
+\rotFPtop=\skip43
+\rotFPbot=\skip44
+\rot@float@box=\box26
+\rot@mess@toks=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count91
+\calc@Bcount=\count92
+\calc@Adimen=\dimen113
+\calc@Bdimen=\dimen114
+\calc@Askip=\skip45
+\calc@Bskip=\skip46
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count93
+\calc@Cskip=\skip47
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+\c@tracingmulticols=\count94
+\mult@box=\box27
+\multicol@leftmargin=\dimen115
+\c@unbalance=\count95
+\c@collectmore=\count96
+\doublecol@number=\count97
+\multicoltolerance=\count98
+\multicolpretolerance=\count99
+\full@width=\dimen116
+\page@free=\dimen117
+\premulticols=\dimen118
+\postmulticols=\dimen119
+\multicolsep=\skip48
+\multicolbaselineskip=\skip49
+\partial@page=\box28
+\last@line=\box29
+\maxbalancingoverflow=\dimen120
+\mult@rightbox=\box30
+\mult@grightbox=\box31
+\mult@gfirstbox=\box32
+\mult@firstbox=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\c@columnbadness=\count100
+\c@finalcolumnbadness=\count101
+\last@try=\dimen121
+\multicolovershoot=\dimen122
+\multicolundershoot=\dimen123
+\mult@nat@firstbox=\box51
+\colbreak@box=\box52
+\mc@col@check@num=\count102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen124
+\captionmargin@=\dimen125
+\captionwidth=\dimen126
+\caption@tempdima=\dimen127
+\caption@indent=\dimen128
+\caption@parindent=\dimen129
+\caption@hangindent=\dimen130
+)
+\c@ContinuedFloat=\count103
+Package caption Info: rotating package is loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen131
+\extrarowheight=\dimen132
+\NC@list=\toks17
+\extratabsurround=\skip50
+\backup@length=\skip51
+)
+\TX@col@width=\dimen133
+\TX@old@table=\dimen134
+\TX@old@col=\dimen135
+\TX@target=\dimen136
+\TX@delta=\dimen137
+\TX@cols=\count104
+\TX@ftn=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip52
+\f@nch@O@elh=\skip53
+\f@nch@O@erh=\skip54
+\f@nch@O@olh=\skip55
+\f@nch@O@orh=\skip56
+\f@nch@O@elf=\skip57
+\f@nch@O@erf=\skip58
+\f@nch@O@olf=\skip59
+\f@nch@O@orf=\skip60
+)
+
+! LaTeX Error: File `titlesec.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+! Undefined control sequence.
+l.27 \titleformat
+                 {\chapter}{\normalfont\LARGE\bfseries}{\thechapter}{1em}{}
+? 
+! Undefined control sequence.
+l.27 \titleformat{\chapter
+                          }{\normalfont\LARGE\bfseries}{\thechapter}{1em}{}
+? q!
+OK, entering \batchmode...
+! Undefined control sequence.
+l.27 ...r}{\normalfont\LARGE\bfseries}{\thechapter
+                                                  }{1em}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...\normalfont\LARGE\bfseries}{\thechapter}{1
+                                                  em}{}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.28 \titlespacing
+                  *{\chapter}{0pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.28 \titlespacing*{\chapter
+                            }{0pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+ (./COMPASS Main.aux (./CountryPages/CountryPage_1.aux) (./CountryPages/Country
+Page_3.aux) (./CountryPages/CountryPage_4.aux) (./CountryPages/CountryPage_13.a
+ux) (./CountryPages/CountryPage_17.aux) (./CountryPages/CountryPage_18.aux) (./
+CountryPages/CountryPage_26.aux) (./CountryPages/CountryPage_27.aux) (./Country
+Pages/CountryPage_31.aux) (./CountryPages/CountryPage_33.aux) (./CountryPages/C
+ountryPage_35.aux) (./CountryPages/CountryPage_37.aux) (./CountryPages/CountryP
+age_40.aux) (./CountryPages/CountryPage_41.aux) (./CountryPages/CountryPage_44.
+aux) (./CountryPages/CountryPage_45.aux) (./CountryPages/CountryPage_46.aux) (.
+/CountryPages/CountryPage_49.aux) (./CountryPages/CountryPage_50.aux) (./Countr
+yPages/CountryPage_51.aux) (./CountryPages/CountryPage_57.aux) (./CountryPages/
+CountryPage_59.aux) (./CountryPages/CountryPage_66.aux) (./CountryPages/Country
+Page_62.aux) (./CountryPages/CountryPage_65.aux) (./CountryPages/CountryPage_67
+.aux) (./CountryPages/CountryPage_68.aux) (./CountryPages/CountryPage_73.aux) (
+./CountryPages/CountryPage_75.aux) (./CountryPages/CountryPage_76.aux) (./Count
+ryPages/CountryPage_77.aux) (./CountryPages/CountryPage_78.aux) (./CountryPages
+/CountryPage_84.aux) (./CountryPages/CountryPage_85.aux) (./CountryPages/Countr
+yPage_86.aux) (./CountryPages/CountryPage_89.aux) (./CountryPages/CountryPage_9
+3.aux) (./CountryPages/CountryPage_94.aux) (./CountryPages/CountryPage_97.aux) 
+(./CountryPages/CountryPage_98.aux) (./CountryPages/CountryPage_103.aux) (./Cou
+ntryPages/CountryPage_106.aux) (./CountryPages/CountryPage_105.aux) (./CountryP
+ages/CountryPage_107.aux) (./CountryPages/CountryPage_108.aux) (./CountryPages/
+CountryPage_111.aux) (./CountryPages/CountryPage_113.aux) (./CountryPages/Count
+ryPage_115.aux) (./CountryPages/CountryPage_116.aux) (./CountryPages/CountryPag
+e_117.aux) (./CountryPages/CountryPage_121.aux) (./CountryPages/CountryPage_122
+.aux) (./CountryPages/CountryPage_126.aux) (./CountryPages/CountryPage_130.aux)
+ (./CountryPages/CountryPage_132.aux) (./CountryPages/CountryPage_133.aux) (./C
+ountryPages/CountryPage_137.aux) (./CountryPages/CountryPage_140.aux) (./Countr
+yPages/CountryPage_141.aux) (./CountryPages/CountryPage_144.aux) (./CountryPage
+s/CountryPage_145.aux) (./CountryPages/CountryPage_147.aux) (./CountryPages/Cou
+ntryPage_152.aux) (./CountryPages/CountryPage_155.aux) (./CountryPages/CountryP
+age_159.aux) (./CountryPages/CountryPage_165.aux) (./CountryPages/CountryPage_1
+67.aux) (./CountryPages/CountryPage_169.aux) (./CountryPages/CountryPage_170.au
+x) (./CountryPages/CountryPage_171.aux) (./CountryPages/CountryPage_172.aux) (.
+/CountryPages/CountryPage_175.aux) (./CountryPages/CountryPage_179.aux) (./Coun
+tryPages/CountryPage_187.aux) (./CountryPages/CountryPage_188.aux) (./CountryPa
+ges/CountryPage_192.aux) (./CountryPages/CountryPage_194.aux) (./CountryPages/C
+ountryPage_195.aux) (./CountryPages/CountryPage_198.aux) (./CountryPages/Countr
+yPage_202.aux) (./CountryPages/CountryPage_203.aux) (./CountryPages/CountryPage
+_204.aux) (./CountryPages/CountryPage_205.aux) (./CountryPages/CountryPage_215.
+aux) (./CountryPages/CountryPage_217.aux) (./CountryPages/CountryPage_221.aux) 
+(./CountryPages/CountryPage_223.aux) (./CountryPages/CountryPage_224.aux) (./Co
+untryPages/CountryPage_226.aux) (./CountryPages/CountryPage_227.aux) (./Country
+Pages/CountryPage_229.aux) (./CountryPages/CountryPage_233.aux) (./CountryPages
+/CountryPage_236.aux) (./CountryPages/CountryPage_237.aux) (./CountryPages/Coun
+tryPage_238.aux
+! Interruption.
+<to be read again> 
+                   \relax 
+l.1 \relax
+          
+? e
+ 
+Here is how much of TeX's memory you used:
+ 3045 strings out of 494923
+ 51056 string characters out of 6180742
+ 122381 words of memory out of 5000000
+ 6098 multiletter control sequences out of 15000+600000
+ 4246 words of font info for 16 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 36i,0n,43p,220b,121s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
+PDF statistics:
+ 0 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

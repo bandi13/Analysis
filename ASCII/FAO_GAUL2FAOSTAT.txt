@@ -1,0 +1,100 @@
+Country Name	FAOSTAT	FAO-GAUL
+Afghanistan	2	1
+Albania	3	3
+Algeria	4	4
+Armenia	1	13
+Australia	10	17
+Austria	11	18
+Belarus	57	26
+Belgium	255	27
+Bhutan	18	31
+Bolivia	19	33
+Botswana	20	35
+Brazil	21	37
+Brunei Darussalam	26	40
+Bulgaria	27	41
+Cambodia	115	44
+Cameroon	32	45
+Canada	33	46
+Central African Republic	37	49
+Chad	39	50
+Chile	40	51
+Colombia	44	57
+Congo	46	59
+Cote d'Ivoire	107	66
+Croatia	98	62
+Czech Republic	167	65
+Democratic People's Republic of Korea	116	67
+Democratic Republic of the Congo	250	68
+Ecuador	58	73
+El Salvador	60	75
+Equatorial Guinea	61	76
+Eritrea	178	77
+Estonia	63	78
+Finland	67	84
+France	68	85
+French Guiana	69	86
+Gabon	74	89
+Germany	79	93
+Ghana	81	94
+Greece	84	97
+Greenland	85	98
+Guatemala	89	103
+Guinea	90	106
+Guinea-Bissau	175	105
+Guyana	91	107
+Haiti	93	108
+Honduras	95	111
+Hungary	97	113
+India	100	115
+Indonesia	101	116
+Iran	102	117
+Israel	105	121
+Italy	106	122
+Japan	110	126
+Jordan	112	130
+Kazakhstan	108	132
+Kenya	114	133
+Kuwait	118	137
+Latvia	119	140
+Lebanon	121	141
+Liberia	123	144
+Libya	124	145
+Lithuania	126	147
+Malawi	130	152
+Mali	133	155
+Mauritania	136	159
+Moldova	146	165
+Mongolia	141	167
+Morocco	143	169
+Mozambique	144	170
+Myanmar	28	171
+Namibia	147	172
+Nepal	149	175
+New Zealand	156	179
+Oman	221	187
+Pakistan	165	188
+Papua New Guinea	168	192
+Paraguay	169	194
+Peru	170	195
+Poland	173	198
+Republic of Korea	117	202
+Romania	183	203
+Russian Federation	185	204
+Rwanda	184	205
+Saudi Arabia	194	215
+Senegal	195	217
+Sierra Leone	197	221
+Slovakia	199	223
+Slovenia	198	224
+Somalia	201	226
+South Africa	202	227
+Spain	203	229
+Suriname	207	233
+Sweden	210	236
+Switzerland	211	237
+Syrian Arab Republic	212	238
+Tajikistan	208	239
+Thailand	216	240
+Togo	217	243
+Tunisia	222	248

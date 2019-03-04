@@ -1,0 +1,40 @@
+\documentclass[landscape]{article}
+\usepackage{graphics}
+\usepackage{rotating}
+\usepackage{geometry}
+\usepackage{calc}
+\usepackage{multicol}
+\usepackage{caption}
+\usepackage{tabularx}
+
+%\geometry{paperwidth=11in,paperheight=8.5in}
+\geometry{tmargin=1in,bmargin=1in,lmargin=1in,rmargin=1in}
+
+\usepackage{fancyhdr,titlesec}
+\fancypagestyle{plain}{
+\setlength{\headheight}{26pt}
+\lhead{\textsf{\textbf{Sustainable Water Future Project}}}
+\rhead{\textsf{\textbf{COMPASS}}}
+\cfoot{\thepage}
+\renewcommand{\headrulewidth}{0.6pt}
+\renewcommand{\footrulewidth}{0.6pt}}
+\pagestyle{plain}
+
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+
+\titleformat{\chapter}{\normalfont\LARGE\bfseries}{\thechapter}{1em}{}
+\titlespacing*{\chapter}{0pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex}
+
+\begin{document}
+
+\title{COMPASS: Comprehensive Assessment of Water Resource Systems}
+
+\author{Bal\'{a}zs M. Fekete,
+ Charles J. V\"{o}r\"{o}smarty,
+ Anik Bhaduri}
+
+\maketitle
+
+\pagebreak
