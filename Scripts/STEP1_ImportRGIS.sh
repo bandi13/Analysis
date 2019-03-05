@@ -8,7 +8,7 @@ RGISARCHIVE="/asrc/RGISarchive2"
 
 if [ "${3}" == "" ]
 then
-	echo "Usage ${0##*/} [domain] [resolution] [sensitive|lower|upper]"
+	echo "Usage ${0##*/} [domain] [resolution] [sensitive|lower]"
 	exit 1
 fi
 
