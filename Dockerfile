@@ -1,6 +1,7 @@
 FROM    ubuntu:18.04
 RUN apt-get update && DEBIAN_FRONTEND=noninteractive
-RUN apt-get install -y apt-utils git cmake net-tools python python-numpy 
+RUN apt-get install -y apt-utils
+RUN apt-get git cmake net-tools python python-numpy 
 RUN apt-get install -y libnetcdf-dev netcdf-bin libudunits2-0 libudunits2-data libudunits2-dev 
 RUN apt-get install -y libexpat1 libexpat1-dev
 RUN apt-get install -y libxext-dev libmotif-common libmotif-dev
