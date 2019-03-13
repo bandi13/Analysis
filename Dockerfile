@@ -1,5 +1,6 @@
 FROM    ubuntu:18.04
-RUN apt-get update && DEBIAN_FRONTEND=noninteractive
+ENV DEBIAN_FRONTEND noninteractive
+RUN apt-get update
 RUN apt-get install -y apt-utils
 RUN apt-get install -y git cmake net-tools python python-numpy 
 RUN apt-get install -y libnetcdf-dev netcdf-bin libudunits2-0 libudunits2-data libudunits2-dev 
