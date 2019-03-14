@@ -5,7 +5,7 @@ ENV VNC_PASSWD=123456
 
 RUN apt-get update
 RUN DEBIAN_FRONTEND=noninteractive apt-get install -y apt-utils
-RUN DEBIAN_FRONTEND=noninteractive apt-get install -y git cmake net-tools python python-numpy 
+RUN DEBIAN_FRONTEND=noninteractive apt-get install -y git cmake vim net-tools python python-numpy 
 RUN DEBIAN_FRONTEND=noninteractive apt-get install -y libnetcdf-dev netcdf-bin libudunits2-0 libudunits2-data libudunits2-dev 
 RUN DEBIAN_FRONTEND=noninteractive apt-get install -y libexpat1 libexpat1-dev
 RUN DEBIAN_FRONTEND=noninteractive apt-get install -y libxext-dev libmotif-common libmotif-dev
