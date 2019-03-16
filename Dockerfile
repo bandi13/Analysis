@@ -1,6 +1,7 @@
 FROM    ubuntu:18.04
 
 EXPOSE 5900
+
 ENV VNC_PASSWD=123456
 
 RUN apt-get update
@@ -24,4 +25,5 @@ RUN mkdir -p /etc/container
 COPY Container/startup.sh  /etc/container/startup.sh
 COPY Container/xstartup.sh /etc/container/xstartup.sh
 
-ENTRYPOINT ["/etc/container/startup.sh"]
+#ENTRYPOINT ["/etc/container/startup.sh"]
+ENTRYPOINT ["/bin/bash"]
