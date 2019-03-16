@@ -8,6 +8,7 @@ vncserver :0 -nolisten -rfbauth ${HOME}/.vnc/passwd -xstartup /etc/container/xst
 
 # start noVNC web server
 #/opt/noVNC/utils/launch.sh --listen 5901 &
+/usr/share/novnc/utils/launch.sh --listen 5901 &
 
 echo -e "\n\n------------------ VNC environment started ------------------"
 echo -e "\nVNCSERVER started on DISPLAY= ${DISPLAY} \n\t=> connect via VNC viewer with ${OUR_IP}:5900"
