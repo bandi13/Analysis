@@ -1,4 +1,5 @@
 FROM    ubuntu:18.04
+
 EXPOSE 5900
 EXPOSE 5901
 
@@ -12,7 +13,7 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get install -y libexpat1 libexpat1-dev
 RUN DEBIAN_FRONTEND=noninteractive apt-get install -y libxext-dev libmotif-common libmotif-dev
 RUN DEBIAN_FRONTEND=noninteractive apt-get install -y xfce4 xfce4-goodies
 RUN DEBIAN_FRONTEND=noninteractive apt-get install -y tigervnc-standalone-server
-#RUN DEBIAN_FRONTEND=noninteractive apt-get install -y novnc websockify-common websockify
+RUN DEBIAN_FRONTEND=noninteractive apt-get install -y novnc websockify-common websockify
 
 RUN ln -fs /usr/share/zoneinfo/America/New_York /etc/localtime
 RUN dpkg-reconfigure --frontend noninteractive tzdata
