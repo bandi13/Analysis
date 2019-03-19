@@ -26,5 +26,4 @@ RUN mkdir -p /etc/container
 COPY Container/startup.sh  /etc/container/startup.sh
 COPY Container/xstartup.sh /etc/container/xstartup.sh
 
-#ENTRYPOINT ["/etc/container/startup.sh"]
-ENTRYPOINT ["/bin/bash"]
+ENTRYPOINT ["/etc/container/startup.sh"]
