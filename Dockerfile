@@ -13,3 +13,8 @@ RUN ln -snf /usr/share/zoneinfo/UTC /etc/localtime && echo UTC > /etc/timezone
 RUN git clone https://github.com/bmfekete/RGIS /tmp/RGIS && /tmp/RGIS/install.sh /usr/local/share && rm -rf /tmp/RGIS
 
 COPY Container/createUserBashrc.sh /opt/startup_scripts/.
+
+# Add non-root user
+ENV DOCKER_USER_UID 1000
+RUN useradd -m -s /bin/bash -g users -u ${DOCKER_USER_UID} dockerUser
+USER dockerUser
