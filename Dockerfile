@@ -11,7 +11,7 @@ RUN ln -snf /usr/share/zoneinfo/UTC /etc/localtime && echo UTC > /etc/timezone
 
 # Install GHAAS
 RUN git clone https://github.com/bmfekete/RGIS /tmp/RGIS && /tmp/RGIS/install.sh /usr/local/share && rm -rf /tmp/RGIS
-
+RUN echo "?package(bash):needs=\"X11\" section=\"DockerCustom\" title=\"RiverGIS\" command=\"/usr/local/share/bin/rgis\"" >> /usr/share/menu/custom-docker && update-menus
 COPY Container/createUserBashrc.sh /opt/startup_scripts/.
 
 # Add non-root user
